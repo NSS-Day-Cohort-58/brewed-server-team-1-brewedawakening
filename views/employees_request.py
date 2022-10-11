@@ -1,7 +1,7 @@
 EMPLOYEES = [
     {
         "id": 1,
-        "name": "Alphonse Meron",
+        "name": "Bilbo Baggins",
         "email": "ameron0@mashable.com",
         "hourlyRate": 11.50
 
